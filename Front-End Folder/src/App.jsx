@@ -10,7 +10,7 @@ import Employee from './Components/Employee';
 import Category from './Components/Category';
 import EditCategory from './Components/EditCategory';
 import Profile from './Components/Profile';
-import ProfileEmp from './Components/ProfileEmp';  // Asegúrate de importar el componente correctamente
+import ProfileEmp from './Components/ProfileEmp';  
 
 
 import AddCategory from './Components/AddCategory';
