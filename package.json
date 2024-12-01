@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@codemirror/lang-javascript": "^6.2.2",
+    "@uiw/codemirror-theme-material": "^4.23.6",
+    "@uiw/react-codemirror": "^4.23.6",
+    "chromedriver": "^130.0.4",
+    "mysql": "^2.18.1",
+    "selenium-webdriver": "^4.26.0"
+  }
+}
